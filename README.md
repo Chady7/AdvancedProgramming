@@ -7,6 +7,8 @@ When you are asked to select an option between 1,2 and 3 in the stocks, please g
 
 When asked which car part you want to buy or sell, you need to type it as displayed for example "Engine" will work but not "engine"
 
+The files you need to generate the commentary and the pictures must be in the same path as the code, these files are given in this github.
+
 Don't forget to be creative :)
 
 
